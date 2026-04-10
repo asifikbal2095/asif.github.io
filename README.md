@@ -1,6 +1,4 @@
-{
-    "liveServer.settings.multiRootWorkspaceName": "Portfolio Website"
-}
+
 # 📄 MD ASIF IQBAL – Professional Resume
 
 ## 👋 About Me
